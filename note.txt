@@ -1,0 +1,3 @@
+1.P1_result是项目
+2.China_city_results.csv ，Tianjin_results.csv，global_results.csv是用SQL导出的数据。
+3.Tianjin_global.xlsx里面是一些做图
